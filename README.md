@@ -14,7 +14,5 @@ Traditional face aging often struggles with the trade-off between identity fidel
 
 The training dataset from: https://www.kaggle.com/datasets/arnaud58/flickrfaceshq-dataset-ffhq
 
-**Requirement：** //
-** -- python 3.10 **
-** -- pytorch 2.3 **
-** -- cuda 13.0 (Compatible with 12.x) **
+**Requirement：** 
+-- python 3.10 -- pytorch 2.3  -- cuda 13.0 (Compatible with 12.x) 
